@@ -3,9 +3,8 @@
     ===========================================================================
      Filename              : Sync-PvsLocalStore.ps1
      Created on            : 2014-09-26
-     Updated on            : 2017-11-23
+     Updated on            : 2019-02-07
      Created by            : Frank Peter Schultze
-     Organization          : out-web.net
     ===========================================================================
 
     This script needs to be run on a system where Citrix Provisiong Service's
